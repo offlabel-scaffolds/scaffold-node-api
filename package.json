@@ -1,0 +1,19 @@
+{
+  "name": "@offlabel/scaffold-node-api",
+  "version": "1.0.0",
+  "author": "Augustus Rivers (https://offlabel.design)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "tsx": "^4.19.2",
+    "@types/node": "^22.7.5"
+  }
+}
