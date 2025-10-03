@@ -1,8 +1,8 @@
 # scaffold-node-api
 
-Production-ready scaffold built by [Augustus Rivers](https://offlabel.design).
+Production-ready scaffold node api scaffold. Built it because I needed it, figured you might too.
 
-Because rebuilding the same stuff from scratch every time is a waste of life.
+Built by [Augustus Rivers](https://offlabel.design) because rebuilding this from scratch every time is tedious.
 
 ## What's This?
 
@@ -10,7 +10,7 @@ A scaffold that actually works. Not some half-finished tutorial code,
 but production-ready configuration you can deploy. Still needs customization
 for your specific use case, but the hard parts are done.
 
-## Quick Start
+## Installation
 
 Check the project files and customize for your needs. The code has comments
 explaining the non-obvious bits.
@@ -18,7 +18,7 @@ explaining the non-obvious bits.
 ## Built With
 
 - Best practices from 2025
-- Real error handling  
+- Real error handling 
 - Documentation that doesn't assume you're psychic
 - Configuration that works out of the box
 
@@ -36,4 +36,4 @@ If this helped you ship faster, let me know. Makes my day.
 
 ---
 
-Built with ❤️ by Augustus Rivers at [Offlabel Design](https://offlabel.design)
+Built with ️ by Augustus Rivers at [Offlabel Design](https://offlabel.design)
